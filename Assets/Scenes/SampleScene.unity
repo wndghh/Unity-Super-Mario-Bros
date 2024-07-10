@@ -11043,7 +11043,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1719184200163015008, guid: 5c4f278847dafa344a791fa3c1f124f5, type: 3}
       propertyPath: maxJumpHeight
-      value: 5
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 2084762441248422554, guid: 5c4f278847dafa344a791fa3c1f124f5, type: 3}
       propertyPath: m_LocalPosition.x
